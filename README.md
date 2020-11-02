@@ -1,4 +1,4 @@
-<h1> Particle Classifer Using Maching Learning.</h1>
+<h1> Particle Classifier Using Machine Learning.</h1>
 
 ## Table of Contents
 
